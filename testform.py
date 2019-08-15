@@ -19,7 +19,7 @@ class Testwindow(QtWidgets.QWidget):
         self.new.btn_start_captrue.clicked.connect(self.startCapture)
         #self.startCapture()
         #self.QrImageCvt()
-
+#xxxx
     def QrImageCvt(self):
         head = 'DQY'
         model = '19016'
