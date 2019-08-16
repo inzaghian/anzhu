@@ -1,6 +1,8 @@
 #coding:utf-8
 import serial
 import serial.tools.list_ports
+
+#this is modify by any one
 class opencom():
     def __init__(self):
         self.com=serial.Serial()
